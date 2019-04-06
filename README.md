@@ -1,2 +1,1 @@
-# https://agoravai.githun.io
-agora vai
+# https://agoravai.github.io
